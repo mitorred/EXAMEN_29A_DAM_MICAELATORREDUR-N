@@ -17,6 +17,10 @@ public class EXAMEN_29A_PRIMO {
 		        } else {
 		            System.out.println(numero + " no es primo.");
 		        }
+		        
+		        
+		     System.out.println("Cambios de la RAMA1, no me da la cabeza para pensar en más números Marta");
+		        
 		    }//fin main
 
 		    public static boolean esPrimo(int n) {
@@ -28,6 +32,8 @@ public class EXAMEN_29A_PRIMO {
 		        }
 		        return true; 
 		    }
+		    
+		    
 }
 		
 
